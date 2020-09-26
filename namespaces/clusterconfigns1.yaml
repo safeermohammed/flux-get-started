@@ -3,4 +3,5 @@ kind: Namespace
 metadata:
   labels:
     name: clusterconfigns1
+    test: test
   name: clusterconfigns1
